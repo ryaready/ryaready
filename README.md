@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ryaready
-- 👀 I’m interested in learning coding
-- 🌱 I’m currently learning CSS and Python
+- 🌱 I’m currently learning ML 
 - 💞️ I’m looking to collaborate on an app for people with chronic illness
 - 📫 How to reach me aishwarya.iyer2802@gmail.com
 
