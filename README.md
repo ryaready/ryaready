@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ryaready
 - 🌱 I’m currently learning ML 
-- 💞️ I’m looking to collaborate on an app for people with chronic illness
-- 📫 How to reach me aishwarya.iyer2802@gmail.com
+- 📫 How to reach me: aishwarya.iyer2802@gmail.com
 
 <!---
 ryaready/ryaready is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
